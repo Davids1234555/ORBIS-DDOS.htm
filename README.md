@@ -1,13 +1,13 @@
 # ORBIS-DDOS.htm
-git clone https://github.com/DAVIDSS/ORBIS-DDOS
+git clone https://github.com/DAVIDSS/ORBIS-DDOS3
 
 
-pip install python2
-cd ORBIS-DDOS
+pip install python3
+cd ORBIS-DDOS3
 
 
 
-python2 orbis.py
+python3 orbis.py
 
 
 
